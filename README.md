@@ -1,10 +1,10 @@
 # TONE Magazine
 
-A Laravel-based web application for TONE Magazine, featuring a public-facing website and a content management system (CMS).
+A full-stack web application for TONE Magazine, built with Laravel and Angular. The platform includes a public-facing magazine website and an admin CMS for managing digital content.
 
 ## Project Overview
 
-This project aims to rebuild the TONE Magazine website with a modern, responsive design and an easy-to-use admin panel for managing website content.
+The project aims to rebuild the TONE Magazine website with a modern, responsive design and an easy-to-use admin panel.
 
 ## Features
 
@@ -21,8 +21,9 @@ This project aims to rebuild the TONE Magazine website with a modern, responsive
 ## Technology Stack
 
 - **Backend:** Laravel / PHP
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap
+- **Frontend:** Angular / TypeScript, HTML, CSS, JavaScript, Bootstrap
 - **Database:** MySQL
+- **API**: REST API
 - **Version Control:** Git / GitHub
 
 ## Installation
