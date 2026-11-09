@@ -21,7 +21,7 @@ The project aims to rebuild the TONE Magazine website with a modern, responsive 
 ## Technology Stack
 
 - **Backend:** Laravel / PHP
-- **Frontend:** Angular / TypeScript, HTML, CSS, JavaScript, Bootstrap
+- **Frontend:** Angular / TypeScript, HTML, CSS, JavaScript, Bootstrap, jQuery
 - **Database:** MySQL
 - **API**: REST API
 - **Version Control:** Git / GitHub
